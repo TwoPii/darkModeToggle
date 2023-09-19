@@ -14,4 +14,4 @@ import { Toggle } from 'dark-mode-toggle'
 | handleChange | function |
 
 ## NPM 
-[dark-mode-toggle-design] (https://www.npmjs.com/package/dark-mode-toggle-design)
+[dark-mode-toggle-design](https://www.npmjs.com/package/dark-mode-toggle-design)
